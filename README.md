@@ -14,7 +14,7 @@ $ git clone https://github.com/ArkAngeL43/PG-GEN2.git
 $ cd PG-GEN2
 
 
-$ pip install requirements.txt
+$ pip install -r requirements.txt
 
 
 $ python3 main.py
