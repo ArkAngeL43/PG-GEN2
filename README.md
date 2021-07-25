@@ -9,6 +9,12 @@ alot of people never understood the concepts of hacking accounts, you usually do
 #install
 
 $ git clone https://github.com/ArkAngeL43/PG-GEN2.git
+
+
 $ cd PG-GEN2
+
+
 $ pip install requirements.txt
+
+
 $ python3 main.py
