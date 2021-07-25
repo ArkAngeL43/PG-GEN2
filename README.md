@@ -20,6 +20,5 @@ $ pip install requirements.txt
 $ python3 main.py
 
 
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup
+* [Tested on parrot os 4.11 Debian} 
+* [Tested using python3.9.2]
