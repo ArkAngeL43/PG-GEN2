@@ -18,3 +18,8 @@ $ pip install requirements.txt
 
 
 $ python3 main.py
+
+
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup
